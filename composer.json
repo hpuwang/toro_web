@@ -26,7 +26,7 @@
             "thirdpart/php_fast_cache.php",
             "thirdpart/php_verify/verify.php"
         ]
-    }
-    ,
+    },
+    "version":"1.0.1",
      "minimum-stability": "stable"
 }
