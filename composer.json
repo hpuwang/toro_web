@@ -27,4 +27,6 @@
             "thirdpart/php_verify/verify.php"
         ]
     }
+    ,
+     "minimum-stability": "stable"
 }
