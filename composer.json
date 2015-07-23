@@ -1,7 +1,7 @@
 {
-    "name": "kaihui/toro_restfull",
-    "type": "library",
-    "description": "toro_restfull.",
+    "name": "hpuwang/toro_web",
+    "type": "framework",
+    "description": "hpuwang/toro_web",
     "homepage": "http://2tag.cn/",
     "license": "MIT",
     "authors": [
